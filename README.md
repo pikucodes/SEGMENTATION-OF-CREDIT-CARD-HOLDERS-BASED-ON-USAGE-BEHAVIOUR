@@ -1,0 +1,2 @@
+# SEGMENTATION-OF-CREDIT-CARD-HOLDERS-BASED-ON-USAGE-BEHAVIOUR
+In marketing, market segmentation is the process of dividing a broad consumer or business market, normally consisting of existing and potential customers into sub-groups of customers. Here the objective is to categorize credit card holders into different segments based on some shared characteristics so that later for new credit card holders, recommendations can be given for saving plans, loans, wealth management, etc.
